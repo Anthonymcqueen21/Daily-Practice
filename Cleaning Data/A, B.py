@@ -1,5 +1,4 @@
 This is the DataFrame df:
-
       A     B
 0  12.0  32.0
 1  63.0   NaN
